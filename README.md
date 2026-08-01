@@ -5,10 +5,10 @@
     <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/banner.svg?ts=20260802" alt="AHMAD SHOBI Banner" width="100%" style="width: 100%; max-width: 100%;">
   </a>
 
-  <br><br>
+  <br>
 
   <!-- Title Nama -->
-  <p><b>Goblin Engineer| AI Agentic Coding | CLI & Terminal Control Center Engineer</b></p>
+  <p><b>Goblin Engineer | AI Agentic Coding | CLI & Terminal Control</b></p>
 
   <br>
 
