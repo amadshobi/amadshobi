@@ -41,34 +41,7 @@
   <h4>📌 <a href="https://github.com/amadshobi/goblin-vault.git">Goblin Vault</a></h4>
   <p><i>Central Knowledge Base & Vault System Terminal and Coding Agents workflow</i></p>
   <a href="https://github.com/amadshobi/goblin-vault.git">
-    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/goblin.jpg" alt="Goblin Vault" width="100%" style="border-radius: 8px;" />
-  </a>
-
-  <br><br><br>
-
-  <!-- 2. OpenCode Manager (OCM) -->
-  <h4>📌 OpenCode Manager (OCM)</h4>
-  <p><i>TUI & CLI Environment Manager for Configuring Agentic Workflows & OpenCode Ecosystem</i></p>
-  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ocm.jpg">
-    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ocm.jpg" alt="OpenCode Manager" width="100%" style="border-radius: 8px;" />
-  </a>
-
-  <br><br><br>
-
-  <!-- 3. Sub Command (SUB) -->
-  <h4>📌 Sub Command (SUB)</h4>
-  <p><i>CLI Controller for Dispatching Modular Agent Tasks directly from Terminal</i></p>
-  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/sub.jpg">
-    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/sub.jpg" alt="Sub Command" width="100%" style="border-radius: 8px;" />
-  </a>
-
-  <br><br><br>
-
-  <!-- 4. Syntax Guardian (SG) -->
-  <h4>📌 Syntax Guardian (SG)</h4>
-  <p><i>Fast syntax validation, multi-language, Git hook Ready</i></p>
-  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ss-sg.jpg">
-    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ss-sg.jpg" alt="Syntax Guardian" width="100%" style="border-radius: 8px;" />
+    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/goblin-banner.svg" alt="Goblin Vault Banner" width="100%" />
   </a>
 
 </div>
