@@ -55,20 +55,20 @@
 
   <br><br><br>
 
-  <!-- 3. Subagent CLI (SG) -->
-  <h4>📌 Subagent CLI (SUB)</h4>
-  <p><i>Autonomous Subagent Runner & Task Executor built for Speed & Precision</i></p>
-  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ss-sub.jpg">
-    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ss-sub.jpg" alt="Subagent CLI" width="100%" style="border-radius: 8px;" />
+  <!-- 3. Sub Command (SUB) -->
+  <h4>📌 Sub Command (SUB)</h4>
+  <p><i>CLI Controller for Dispatching Modular Agent Tasks directly from Terminal</i></p>
+  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/sub.jpg">
+    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/sub.jpg" alt="Sub Command" width="100%" style="border-radius: 8px;" />
   </a>
 
   <br><br><br>
 
-  <!-- 4. Sub Command (SUB) -->
+  <!-- 4. Syntax Guardian (SG) -->
   <h4>📌 Syntax Guardian (SG)</h4>
   <p><i>Fast syntax validation, multi-language, Git hook Ready</i></p>
-  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/sg.jpg">
-    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/sg.jpg" alt="syntax-guard" width="100%" style="border-radius: 8px;" />
+  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ss-sg.jpg">
+    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ss-sg.jpg" alt="Syntax Guardian" width="100%" style="border-radius: 8px;" />
   </a>
 
 </div>
