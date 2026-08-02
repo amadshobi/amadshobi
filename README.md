@@ -32,44 +32,43 @@
   <hr>
   <br>
 
-  <!-- Showcase / Screenshots -->
-  <h3>🚀 Project Showcase</h3>
+  <!-- Showcase / Projects -->
+  <h3>🚀 My Projects</h3>
 
-  <!-- Goblin Vault (Single Standalone Hero Image) -->
-  <p><b>Goblin Vault</b></p>
-  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/goblin.jpg">
+  <br>
+
+  <!-- 1. Goblin Vault -->
+  <h4>📌 <a href="https://github.com/amadshobi/goblin-vault.git">Goblin Vault</a></h4>
+  <p><i>Central Knowledge Base & Vault System Terminal and Coding Agents workflow</i></p>
+  <a href="https://github.com/amadshobi/goblin-vault.git">
     <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/goblin.jpg" alt="Goblin Vault" width="100%" style="border-radius: 8px;" />
   </a>
 
-  <br><br>
+  <br><br><br>
 
-  <!-- Grid 2-Kolom untuk Project Lainnya (ocm, sg, sub) -->
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <b>OpenCode Manager (OCM)</b><br><br>
-        <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ocm.jpg">
-          <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ocm.jpg" alt="OCM" width="100%" style="border-radius: 6px;" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <b>Subagent CLI (SG)</b><br><br>
-        <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ss-sg.jpg" >
-          <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ss-sg.jpg" alt="SG" width="100%" style="border-radius: 6px;" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <b>Sub Command (SUB)</b><br><br>
-        <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/sub.jpg">
-          <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/sub.jpg" alt="SUB" width="100%" style="border-radius: 6px;" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <!-- Placeholder Kosong biar Layout Grid Tetap Seimbang -->
-      </td>
-    </tr>
-  </table>
+  <!-- 2. OpenCode Manager (OCM) -->
+  <h4>📌 OpenCode Manager (OCM)</h4>
+  <p><i>TUI & CLI Environment Manager for Configuring Agentic Workflows & OpenCode Ecosystem</i></p>
+  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ocm.jpg">
+    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ocm.jpg" alt="OpenCode Manager" width="100%" style="border-radius: 8px;" />
+  </a>
+
+  <br><br><br>
+
+  <!-- 3. Subagent CLI (SG) -->
+  <h4>📌 Subagent CLI (SUB)</h4>
+  <p><i>Autonomous Subagent Runner & Task Executor built for Speed & Precision</i></p>
+  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ss-sg.jpg">
+    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/ss-sub.jpg" alt="Subagent CLI" width="100%" style="border-radius: 8px;" />
+  </a>
+
+  <br><br><br>
+
+  <!-- 4. Sub Command (SUB) -->
+  <h4>📌 Syntax Guardian (SG)</h4>
+  <p><i>Fast syntax validation, multi-language, Git hook Ready</i></p>
+  <a href="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/sub.jpg">
+    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/screenshoot/sg.jpg" alt="syntax-guard" width="100%" style="border-radius: 8px;" />
+  </a>
 
 </div>
