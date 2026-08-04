@@ -26,9 +26,11 @@
     <img src="https://img.shields.io/badge/Linux_/_Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Linux/Zsh" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  </p>
-
   <br>
+  </p>
+<p align="center">
+  <img src="assets/dino.gif" width="80%">
+</p>
   <hr>
   <br>
 
