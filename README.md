@@ -33,15 +33,13 @@
   <br>
 
   <!-- Showcase / Projects -->
-  <h3>🚀 My Projects</h3>
-
-  <br>
+  <h2>🚀 My Projects</h2>
 
   <!-- 1. Goblin Vault -->
-  <h4>📌 <a href="https://github.com/amadshobi/goblin-vault.git">Goblin Vault</a></h4>
-  <p><i>Central Knowledge Base & Vault System Terminal and Coding Agents workflow</i></p>
+  <br>
   <a href="https://github.com/amadshobi/goblin-vault.git">
     <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/goblin-banner.svg" alt="Goblin Vault Banner" width="100%" />
   </a>
 
+  <p><i>Central Knowledge Base & Vault System Terminal and Coding Agents workflow</i></p>
 </div>
