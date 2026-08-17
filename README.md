@@ -71,12 +71,6 @@ $ amadshobi --info --verbose
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/amadshobi/goblin-vault">
-    <img src="https://raw.githubusercontent.com/amadshobi/amadshobi/main/assets/goblin-banner.svg" alt="Goblin Vault Banner" width="100%" />
-  </a>
-</div>
-
 ---
 
 ### 🛠️ Core Engineering Focus
