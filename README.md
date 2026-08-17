@@ -91,8 +91,8 @@ $ amadshobi --info --verbose
 
 <div align="center">
   <a href="https://github.com/amadshobi">
-    <img src="https://github-readme-stats.vercel.app/api?username=amadshobi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadshobi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=amadshobi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=amadshobi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="150" />
   </a>
 </div>
 
