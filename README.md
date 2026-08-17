@@ -87,12 +87,11 @@ $ amadshobi --info --verbose
 
 ---
 
-### 📊 GitHub Activity & Language Matrix
+### 📊 Contribution Activity
 
 <div align="center">
   <a href="https://github.com/amadshobi">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=amadshobi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=amadshobi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="150" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amadshobi&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9" alt="Ahmad Shobi Activity Graph" width="95%" />
   </a>
 </div>
 
