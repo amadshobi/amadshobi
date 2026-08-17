@@ -89,10 +89,7 @@ $ amadshobi --info --verbose
   </a>
 </div>
 
-<br>
-
 ---
 
-<div align="center">
-  <p><i>"Stay curious, keep breaking things to learn how they work, and never stop building."</i> 🦫✨</p>
-</div>
+> [!TIP]
+> **Engineering Mindset:** *"Stay curious, keep breaking things to learn how they work, and never stop building."* 🦫✨
