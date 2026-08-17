@@ -34,17 +34,16 @@
   <hr>
 </div>
 
-### 📡 `$ whoami --verbose`
+### 📡 `$ amadshobi --info`
 
 ```bash
-$ cat ~/.profile.json
-{
-  "name": "Ahmad Shobi",
-  "role": "Self-Taught Builder & Systems Explorer",
-  "philosophy": "First-principles engineering. Lightweight, close-to-the-metal, and zero corporate bloat.",
-  "workflow": "Terminal-first, headless WSL2, remote mobile SSH (Termius), and high-velocity AI harnesses.",
-  "status": "Incoming CS Freshman & Autonomous Agent Enthusiast 🦫"
-}
+$ amadshobi --info --verbose
+[+] Identity   : Ahmad Shobi (amadshobi)
+[+] Role       : Systems Tinkerer & AI Agentic Builder
+[+] Philosophy : First-principles engineering. Lightweight, close-to-the-metal & zero bloat.
+[+] Workflow   : Terminal-first (WSL2), remote mobile SSH (Termius) & autonomous AI harnesses.
+[+] Focus      : Deterministic guardrails, AST tooling & CLI ergonomics.
+[+] Status     : Incoming CS Freshman 🦫
 ```
 
 ---
