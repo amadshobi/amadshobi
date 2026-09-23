@@ -37,10 +37,7 @@
 ```yaml
 Identity: Ahmad Shobi Ulinnafi(amadshobi)
 Role: Systems Tinkerer & AI Agentic Builder
-Philosophy: First-principles engineering.
 Workflow: Terminal-first & autonomous AI harnesses.
-Focus: Agentic Harness
-Status: Incoming CS Freshman
 ```
 
 ### 🛠️ Core Engineering Focus
