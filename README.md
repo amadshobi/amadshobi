@@ -8,7 +8,7 @@
   <br>
 
   <!-- Tagline / Title -->
-  <p><b>⚡ Systems Tinkerer | AI Agentic Harnesses | Terminal-First & CLI Architecture ⚡</b></p>
+  <p><b>⚡ Systems Tinkerer And AI Agentic Harnesses</b></p>
 
   <!-- Tech Badges -->
   <p>
@@ -34,50 +34,20 @@
   <hr>
 </div>
 
-### 📡 `$ amadshobi --info`
-
-```bash
-$ amadshobi --info --verbose
-[+] Identity   : Ahmad Shobi (amadshobi)
-[+] Role       : Systems Tinkerer & AI Agentic Builder
-[+] Philosophy : First-principles engineering. Lightweight, close-to-the-metal & zero bloat.
-[+] Workflow   : Terminal-first (WSL2), remote mobile SSH (Termius) & autonomous AI harnesses.
-[+] Focus      : Deterministic guardrails, AST tooling & CLI ergonomics.
-[+] Status     : Incoming CS Freshman 🦫
+```yaml
+Identity: Ahmad Shobi Ulinnafi(amadshobi)
+Role: Systems Tinkerer & AI Agentic Builder
+Philosophy: First-principles engineering.
+Workflow: Terminal-first & autonomous AI harnesses.
+Focus: Agentic Harness
+Status: Incoming CS Freshman
 ```
-
----
-
-### 🚀 Featured Open Source Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🪝 <a href="https://github.com/amadshobi/oh-my-hook">oh-my-hook</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/OpenCode-Plugin-blue?style=flat-square" alt="Plugin">
-        <img src="https://img.shields.io/badge/Guardrails-Active-success?style=flat-square" alt="Guardrails">
-      </p>
-      <p>Command Code-style workflow plugins & execution guardrails for OpenCode. Enforces strict mode boundaries, read-before-write validation, secret scanners, session ledger context, and verification loops.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏰 <a href="https://github.com/amadshobi/goblin-vault">goblin-vault</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Config-Vault-purple?style=flat-square" alt="Vault">
-        <img src="https://img.shields.io/badge/TUI_/_CLI-Ergonomics-orange?style=flat-square" alt="Ergonomics">
-      </p>
-      <p>Central knowledge base & configuration vault for autonomous terminal coding agents, custom TUI themes, and developer ergonomics.</p>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🛠️ Core Engineering Focus
 
-- 🤖 **Agentic AI & Orchestration:** Crafting deterministic guardrails, multi-agent pipelines, MCP tools, and local LLM routing proxies.
-- ⚡ **Developer Experience & CLI:** Building sub-millisecond AST checkers, headless automation scripts, and ergonomic terminal utilities.
-- 🐧 **Linux & System Architecture:** WSL2 mirrored networking, POSIX automation, custom Zsh environments, and containerized workflows.
+- 👾**Agentic AI & Orchestration:** Crafting deterministic guardrails, multi-agent pipelines, MCP tools, andlocal LLM routing proxies.
+- 🎭 **Developer Experience:** headless automation scripts, and ergonomic terminal utilities.
+- 🐧 **Linux & System Architecture:** WSL2 mirrored networking.
 
 ---
 
@@ -85,7 +55,7 @@ $ amadshobi --info --verbose
 
 <div align="center">
   <a href="https://github.com/amadshobi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amadshobi&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9" alt="Ahmad Shobi Activity Graph" width="95%" />
+    <img src="assets/activity-graph.svg" alt="Ahmad Shobi Activity Graph" width="95%" />
   </a>
 </div>
 

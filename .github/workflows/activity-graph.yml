@@ -1,0 +1,34 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&custom_title=Ahmad%20Shobi%20Contribution%20Graph
+          output_path: assets/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(graph): update activity graph [skip ci]"
+            git push
+          fi
